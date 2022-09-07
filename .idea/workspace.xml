@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f72d6d8c-f9bb-4a34-a388-e6b80e5a9f6e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../week12/HW12/4.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../week12/HW12/4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week12/HW12/4.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../week12/HW12/4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week12/HW12/5/5.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../week12/HW12/5/5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week12/Quize/1.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../week12/Quize/1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week12/exercise/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../week12/exercise/1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M78__FileStore-main/core/router.py" beforeDir="false" afterPath="$PROJECT_DIR$/M78__FileStore-main/core/router.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M78__FileStore-main/core/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/M78__FileStore-main/core/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M78__FileStore-main/public/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/M78__FileStore-main/public/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M78__FileStore-main/routes.py" beforeDir="false" afterPath="$PROJECT_DIR$/M78__FileStore-main/routes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M78__FileStore-main/users/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/M78__FileStore-main/users/models.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ELdo63VJwy5bTXiDdYpoq6TKxf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HW13" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/M78__FileStore-main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/M78__FileStore-main/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f72d6d8c-f9bb-4a34-a388-e6b80e5a9f6e" name="Changes" comment="" />
+      <created>1662378970177</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662378970177</updated>
+      <workItem from="1662378971389" duration="89000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/HW13$main.coverage" NAME="main Coverage Results" MODIFIED="1662378986655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/M78__FileStore-main" />
+  </component>
+</project>
